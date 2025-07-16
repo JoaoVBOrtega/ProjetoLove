@@ -1,53 +1,53 @@
 const questions = [
     {
-        question: "Qual é a capital do Brasil?",
-        options: ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
-        answer: "Brasília"
+        question: "Qual a data e local do nosso primeiro beijo?",
+        options: ["03/09, Escola", "03/08, Parque da cidade", "03/09, Parque da cidade", "12/10, Na sua casa"],
+        answer: "03/09, Parque da cidade"
     },
     {
-        question: "Qual é o maior oceano do mundo?",
-        options: ["Atlântico", "Índico", "Pacífico", "Ártico"],
-        answer: "Pacífico"
+        question: "Qual a minha cor favorita?",
+        options: ["Azul", "Preto", "Azul Escuro", "Verde"],
+        answer: "Azul"
     },
     {
-        question: "Quem pintou a Mona Lisa?",
-        options: ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
-        answer: "Leonardo da Vinci"
+        question: "Qual foi o prato do almoço que eu te apresentei pra minha mãe??",
+        options: ["Macarroanda", "Frango assado", "Lasanha", "Churrasco"],
+        answer: "Lasanha"
     },
     {
-        question: "Qual é o planeta mais próximo do Sol?",
-        options: ["Vênus", "Marte", "Mercúrio", "Júpiter"],
-        answer: "Mercúrio"
+        question: "Qual foi a viagem que mais nos marcou?",
+        options: ["Campos do Jordão", "Parati", "Cabreúva", "São Bernardo do Campo"],
+        answer: "Parati"
     },
     {
-        question: "Qual é o animal terrestre mais rápido?",
-        options: ["Leão", "Tigre", "Guepardo", "Cavalo"],
-        answer: "Guepardo"
+        question: "Qual é o número que eu calço?",
+        options: ["39", "40", "41", "42"],
+        answer: "42"
     },
     {
-        question: "Quantos ossos tem o corpo humano adulto?",
-        options: ["200", "206", "212", "218"],
-        answer: "206"
+        question: "Qual a palavra que criamos para dizer o quanto nos amamos?",
+        options: ["Espinafre com Abobora", "Bolo de abacaxi com pipoca doce", "Bolo de abacaxi com pipoca", "Pipoca com bolo de abacaxi"],
+        answer: "Bolo de abacaxi com pipoca"
     },
     {
-        question: "Qual é o elemento químico mais abundante na crosta terrestre?",
-        options: ["Silício", "Alumínio", "Ferro", "Oxigênio"],
-        answer: "Oxigênio"
+        question: "Qual foi o natal que fomos para Nazaré Paulista?",
+        options: ["2022", "2023", "2024", "2006"],
+        answer: "2022"
     },
     {
-        question: "Quem escreveu 'Dom Quixote'?",
-        options: ["William Shakespeare", "Miguel de Cervantes", "Jane Austen", "Charles Dickens"],
-        answer: "Miguel de Cervantes"
+        question: "Qual a nossa principal música?",
+        options: ["Home", "Those Eyes", "Minha Cura", "Os anjos cantam"],
+        answer: "Those Eyes"
     },
     {
-        question: "Qual é a montanha mais alta do mundo?",
-        options: ["K2", "Monte Everest", "Kangchenjunga", "Lhotse"],
-        answer: "Monte Everest"
+        question: "Qual seu filme favorito?",
+        options: ["Como se fosse a primeira vez", "Diário de uma paixão", "Carrossel", "Gente Grande"],
+        answer: "Diário de uma paixão"
     },
     {
-        question: "Qual é o maior deserto do mundo?",
-        options: ["Gobi", "Saara", "Arábico", "Kalahari"],
-        answer: "Saara"
+        question: "Qual é o nome da linguagem escrita usada pelos povos da Ilha de Páscoa, ainda não totalmente decifrada?",
+        options: ["Linear A", "Cuneiforme", "Rongorongo", "Tifinagh"],
+        answer: "Rongorongo"
     }
 ];
 
