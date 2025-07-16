@@ -22,13 +22,19 @@
 
         <div id="result-screen" class="screen hidden">
             <h2>Parabéns Meu Amor! <br>
-                 Feliz Aniversário!<br>
-                 🥳❤️‍🩹🥳</h2>
+                Feliz Aniversário!<br>
+                🥳❤️‍🩹🥳</h2>
             <p>Você acertou <span id="score"></span> de 10 perguntas.</p>
-            <video id="video-final" width="100%" controls class="hidden">
-             <source src="videos/meu-video.mp4" type="video/mp4">
-             Seu navegador não suporta vídeo HTML5.
-            </video>
+
+            <!-- YouTube embed -->
+            <div id="youtube-video" class="hidden">
+                <iframe width="100%" height="315"
+                    src="https://www.youtube.com/embed/p1lN42wUeoo"
+                    title="YouTube video"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            </div>
 
             <button id="restart-button">Reiniciar Quiz</button>
         </div>
@@ -37,5 +43,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-
-
