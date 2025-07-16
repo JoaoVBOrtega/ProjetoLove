@@ -4,12 +4,12 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #f0f2f5;
+    background: linear-gradient( to right, #00c6ff, #7ee8fa, #9afbd3) ;
     margin: 0;
 }
 
 .container {
-    background-color: #fff;
+    background-color: #c5ffef;
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -67,7 +67,7 @@ button:disabled {
 }
 
 .option-button {
-    background-color: #e9ecef;
+    background-color: #c8c8c8;
     color: #333;
     border: 1px solid #ced4da;
     padding: 10px 15px;
