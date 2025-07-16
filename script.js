@@ -154,9 +154,9 @@ function showResultScreen() {
     resultScreen.classList.remove('hidden');
     scoreSpan.textContent = score;
 
-    const videoFinal = document.getElementById('video-final');
-    videoFinal.classList.remove('hidden');
-    videoFinal.play();
+   
+    document.getElementById('youtube-video').classList.remove('hidden');
+
 }
 
 
