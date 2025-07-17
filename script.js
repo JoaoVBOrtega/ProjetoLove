@@ -51,7 +51,7 @@ const questions = [
     }
 ];
 
-const startDate = new Date('2025-07-14T13:43:00'); // Data de liberação do botão
+const startDate = new Date('2025-07-17T00:00:00'); // Data de liberação do botão
 
 let currentQuestionIndex = 0;
 let score = 0;
